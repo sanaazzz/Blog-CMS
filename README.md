@@ -1,7 +1,5 @@
 # Blog CMS
-
-Content management system for bloggers.
-
+Conten management system for bloggers.
 ## Features
 - Markdown support
 - SEO optimization
