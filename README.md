@@ -6,7 +6,6 @@ Conten management system for bloggers.
 - Comment system
 - Social sharing
 - Newsletter
-
 ## Tech Stack
 - Next.js
 - Prisma
