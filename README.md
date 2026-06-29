@@ -10,4 +10,3 @@ Conten management system for bloggers.
 - Prisma
 - PostgreSQL
 - Tailwind CSS
-## Licens
