@@ -6,7 +6,7 @@ Conten management system for bloggers.
 - Social sharing
 - Newsletter
 ## Tech Stack
-- Next.js
+- Next
 - Prisma
 - PostgreSQL
 - Tailwind CSS
